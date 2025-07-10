@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,12 +17,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: venu04143
-          svg_out_path: dist/snake.svg  # this creates dist/ directory with snake.svg inside
+          svg_out_path: build/snake.svg  # change to build/
 
-      - name: Push the SVG to the output branch
+      - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: build  # match the folder where the svg was saved
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
