@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: venu04143
+          github_user_name: Ontipuli Venu Gopal
           outputs: |
             dist/snake.svg
 
