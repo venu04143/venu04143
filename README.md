@@ -35,6 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venu04143&show_icons=true&locale=en" alt="venu04143" /></p>
 
-<img src="https://github.com/venu04143/venu04143/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/venu04143/venu04143/output/snake.svg" alt="Snake animation" />
+
 
 
