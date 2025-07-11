@@ -37,12 +37,3 @@
 
 <img src="https://raw.githubusercontent.com/venu04143/venu04143/output/snake.svg" alt="Snake animation" />
 
-
-
-![Venu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venu04143&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venu04143&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=venu04143&theme=tokyonight)
