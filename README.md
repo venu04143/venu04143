@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venu04143&show_icons=true&locale=en&layout=compact" alt="venu04143" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venu04143&show_icons=true&locale=en" alt="venu04143" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venu04143&show_icons=true&locale=en" alt="venu04143" /></p> 
 
 <img src="https://raw.githubusercontent.com/venu04143/venu04143/output/snake.svg" alt="Snake animation" />
 
